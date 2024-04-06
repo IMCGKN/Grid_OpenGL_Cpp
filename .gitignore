@@ -1,0 +1,6 @@
+Makefile
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+out/main
+src/glad.cpp
